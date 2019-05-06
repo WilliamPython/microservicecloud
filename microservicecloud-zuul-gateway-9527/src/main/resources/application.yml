@@ -23,7 +23,7 @@ zuul:
     mydept-consumer.path: /mydept-consumer/**
 
 info:
-  app.name: atguigu-microcloud
+  app.name: wchuang-microcloud
   company.name: www.wchuang.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
